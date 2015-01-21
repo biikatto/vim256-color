@@ -93,7 +93,7 @@
 	url = https://github.com/vim-scripts/synic.vim.git
 [submodule "submodules/tabula.vim"]
 	path = submodules/tabula.vim
-	url = https://github.com/vim-scripts/tabula.vim.git
+	url = https://github.com/biikatto/tabula.vim.git
 [submodule "submodules/tchaba"]
 	path = submodules/tchaba
 	url = https://github.com/vim-scripts/tchaba.git
